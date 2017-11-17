@@ -1,0 +1,6 @@
+https://richonrails.com/articles/ip-geolocation-in-ruby-on-rails
+
+rails g controller geo_ip_solicitar nueva ver
+
+rails g controller geo_ip_request new create
+
